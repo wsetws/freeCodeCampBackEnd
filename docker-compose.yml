@@ -1,8 +1,8 @@
 version: '3.4'
 
 services:
-  blank-docker-node.project:
-    image: blank-docker-node.project
+  freecodecampbackend:
+    image: freecodecampbackend
     build:
       context: .
       dockerfile: ./Dockerfile
