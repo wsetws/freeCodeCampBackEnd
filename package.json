@@ -11,9 +11,9 @@
     "type": "git",
     "url": "https://idontknow/todo.git"
   },
-  "description": "[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://repl.it/github/freeCodeCamp/boilerplate-npm)",
+  "description": "Running a basic application on docker, using cloudflare tunnel to expose and manage ssl",
   "version": "0.0.1",
-  "keywords": [],
+  "keywords": ["freecodecamp","learning"],
   "author": "Chux",
   "license": "ISC"
 }
